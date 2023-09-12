@@ -12,6 +12,8 @@
 https://cjio.readthedocs.io/en/stable/tutorials.html 
 
 https://docs.3dbag.nl/en/schema/attributes/#b3_mutatie_ahn3_ahn4 
+- [*comment from Chengzhi*]: The existing attributes are mainly useless... we need our custom features (some of the features can be obtained based on the features 3D group already used for [urban morphology](https://github.com/hugoledoux/bumo)
+- 
 
 https://colab.research.google.com/drive/11FLiN5p4gI0AK2H6m-7nWrZMexECgOKl#scrollTo=njc_5UEips8f
 
