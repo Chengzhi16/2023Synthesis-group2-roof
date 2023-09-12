@@ -6,6 +6,12 @@
 
 # Useful repository
 - **Roofline-extraction-from-orthophotos** https://github.com/Ylannl/Roofline-extraction-from-orthophotos
-- 
+
+
+# Some link from Sitong (2nd week)
+https://cjio.readthedocs.io/en/stable/tutorials.html 
+
+https://docs.3dbag.nl/en/schema/attributes/#b3_mutatie_ahn3_ahn4 
+
 
 # Reading List
