@@ -21,6 +21,8 @@ https://docs.3dbag.nl/en/schema/attributes/#b3_mutatie_ahn3_ahn4
 
 https://colab.research.google.com/drive/11FLiN5p4gI0AK2H6m-7nWrZMexECgOKl#scrollTo=njc_5UEips8f
 
+https://github.com/yeyan00/pointcloud-sota
+
 ## cityJSON cityGML
 Alternatively, any CityGML file can be automatically converted to CityJSON with the open-source project [citygml-tools](https://github.com/citygml4j/citygml-tools) (based on [citygml4j](https://github.com/citygml4j/citygml4j)).
 
