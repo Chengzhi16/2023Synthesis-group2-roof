@@ -1,8 +1,3 @@
-# project workflow log
-https://docs.google.com/document/d/1YOHux7onHhxHejFOVWln2l9hKwplqT__alUNZnTUp_o/
-
-## code link
-https://colab.research.google.com/drive/1ZtcIgcoYbqEVTBzJMiFyZfM6C4SUQfPe?usp=sharing
 
 # Machine Learning
 - 【从深度学习基础到计算机视觉实战！目标检测/图像分割/图像识别三大主流方向全详解！究极通俗易懂，草履虫都学的会！】 https://www.bilibili.com/video/BV1PY4y1K7W7/?share_source=copy_web&vd_source=1e7c37119eb2f828f8ee6fc34f319375
