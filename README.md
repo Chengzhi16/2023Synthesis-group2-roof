@@ -14,6 +14,9 @@ https://colab.research.google.com/drive/11FLiN5p4gI0AK2H6m-7nWrZMexECgOKl#scroll
 [feature selection](https://colab.research.google.com/drive/1YQhWCa7Axx41Sl73Isk6hnVwzsV65Xan?usp=sharing#scrollTo=jue9294f0pIK)
 - **working directory-Chengzhi's Google drive**, shared already
 https://drive.google.com/drive/folders/1waKB7Fu_7dkqTSEeJmUSNJ5C2i5kcdJs?usp=sharing
+### cjio is used to extract only lod 2.2 data
+pip install cjio
+cjio 10-284-560.city.json lod_filter 2.2 save 10-284-560_lod2.2.city.json
 
 ## Meeting material
 [kickoff meeting](https://docs.google.com/presentation/d/1enXZU5XdtqdpiU2tukcHxfAW6W4gz8qLLUbAWUPvkdQ/edit#slide=id.p), *including some resources and papers*
