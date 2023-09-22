@@ -1,10 +1,6 @@
 # 2023Synthesis-group2-roof
 
-## 12/09 update
-Max wrote a script for manually labelling the buildings, GeoJSON file as input;
-The features for buildings classification are not calculated, so cannot directly use them to label them, but maybe roof types can be labelled in this script??
-
-### 
+## Used data: 10-248-560.city.json
 ## project workflow log
 https://docs.google.com/document/d/1YOHux7onHhxHejFOVWln2l9hKwplqT__alUNZnTUp_o/
 
