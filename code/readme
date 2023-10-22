@@ -6,7 +6,7 @@ Calculate neighbour numbers in one cluster, direct neighbour number and intersec
 input: feature .csv file, cityjson file
 do cluster on calculated features, write the label to cityjson file
 
-3. label(1).py
+3. label_1022.py
 input: feature .csv file, geojson file
 label system for geojson data
 
