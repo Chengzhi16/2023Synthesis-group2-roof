@@ -1,6 +1,5 @@
 # 2023Synthesis-group2-roof
 
- ### **Used data: 10-248-560.city.json**
 
 ## Project workflow log
 https://docs.google.com/document/d/1YOHux7onHhxHejFOVWln2l9hKwplqT__alUNZnTUp_o/
